@@ -1,0 +1,2 @@
+sample_id,fastq_r1,fastq_r2
+SAMPLE_001,/data/fastq/SAMPLE_001_R1.fastq.gz,/data/fastq/SAMPLE_001_R2.fastq.gz
